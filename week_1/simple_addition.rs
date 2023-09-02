@@ -13,5 +13,5 @@ fn main() {
 
     let y: i32 = trimmed_input.parse::<i32>().expect("Please enter a valid number") + 2;
 
-    println!("The value of y is: {}", y);
+    println!("The value of x+2 is: {}", y);
 }

@@ -27,7 +27,7 @@ fn main() {
         }
     }
     
-    println! ("Please enter unit of measurement Cc/FF");
+    println! ("Please enter unit of measurement Cc/Ff");
     let mut character : char;
     loop {
         let mut unit_input = String::new();
